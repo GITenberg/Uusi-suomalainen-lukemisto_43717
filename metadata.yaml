@@ -1,0 +1,28 @@
+_repo: Uusi-suomalainen-lukemisto_43717
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Ahlqvist, August
+    alias: Oksanen, A.
+    birthdate: 1826
+    deathdate: 1889
+    gutenberg_agent_id: '25127'
+    url: http://www.gutenberg.org/2009/agents/25127
+    wikipedia: http://fi.wikipedia.org/wiki/August_Ahlqvist
+description: ''
+gutenberg_issued: '2013-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43717'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish language -- Readers'
+title: Uusi suomalainen lukemisto
+url: http://www.gutenberg.org/ebooks/43717
